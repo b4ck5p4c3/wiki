@@ -1,6 +1,6 @@
 import React from 'react'
 import Link from 'next/link';
-import Image from '@/components/Image';
+import Image from '@/shared/components/Image';
 import css from './Header.module.scss';
 import logo from '@/assets/logo.svg';
 

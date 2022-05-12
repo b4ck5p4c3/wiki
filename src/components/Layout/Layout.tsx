@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import React, { ReactElement } from 'react'
-import Header from '@/components/Header';
+import Header from '@/shared/components/Header';
 import css from './Layout.module.scss';
 
 export default function Layout({ children }) {

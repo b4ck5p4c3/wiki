@@ -1,7 +1,7 @@
 import Head from 'next/head';
 import type { NextPage } from 'next';
 import css from './Where.module.scss';
-import Image from '@/components/Image';
+import Image from '@/shared/components/Image';
 import EntrancePhoto from '@/assets/entrance.jpg';
 
 const Where: NextPage = () => {
